@@ -1,3 +1,4 @@
+
 {
   "name": "split-easy-project",
   "version": "0.1.0",
@@ -6,7 +7,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
     "@next-auth/mongodb-adapter": "^1.1.3",
@@ -27,3 +29,4 @@
     "tailwindcss": "^4"
   }
 }
+
